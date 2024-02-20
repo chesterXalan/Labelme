@@ -1,3 +1,3 @@
 # Labelme
-- Change default annotation function to rectangle for object detection use.
+- Change default annotation function to rectangle for object detection usage.
 - Remove unnecessary files.
