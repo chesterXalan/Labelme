@@ -1,7 +1,7 @@
-# The following content is provided by the original author.
+## The following content is provided by the original author.
 
 <h1 align="center">
-  <img src="icons/icon.png"><br/>Labelme
+  <img src="labelme/icons/icon.png"><br/>labelme
 </h1>
 
 <h4 align="center">
@@ -14,6 +14,21 @@
   <a href="https://github.com/wkentaro/labelme/actions"><img src="https://github.com/wkentaro/labelme/workflows/ci/badge.svg?branch=main&event=push"></a>
 </div>
 
+<div align="center">
+  <a href="#starter-guide"><b>Starter Guide</b></a>
+  | <a href="#installation"><b>Installation</b></a>
+  | <a href="#usage"><b>Usage</b></a>
+  | <a href="#examples"><b>Examples</b></a>
+  | <a href="https://x.com/labelmeai"><b>X/Twitter</b></a>
+  <!-- | <a href="https://github.com/wkentaro/labelme/discussions"><b>Community</b></a> -->
+  <!-- | <a href="https://www.youtube.com/playlist?list=PLI6LvFw0iflh3o33YYnVIfOpaO0hc5Dzw"><b>Youtube FAQ</b></a> -->
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="examples/instance_segmentation/.readme/annotation.jpg" width="70%">
+</div>
 
 ## Description
 
